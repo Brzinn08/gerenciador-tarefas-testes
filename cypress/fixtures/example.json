@@ -1,0 +1,5 @@
+{
+  "name": "Usando fixtures",
+  "email": "hello@cypress.io",
+  "body": "Fixtures são exemplos de dados de teste"
+}
